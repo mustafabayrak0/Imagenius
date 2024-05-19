@@ -1,0 +1,6 @@
+================ Training loss (Sun May 19 16:11:07 2024) ================
+flops:112.49 GMac, params:2.03 M
+val_mode:validation on epoch>> 1, mean tloss>> 0.991363 
+New best loss, saving...,best_val_loss=0.991363
+best model appear in epoch1 and best val_loss is 0.991363
+================ Training End (Sun May 19 16:15:11 2024) ================
